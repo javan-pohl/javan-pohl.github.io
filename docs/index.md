@@ -1,41 +1,7 @@
-## Welcome to GitHub Pages
+## 2-1-21
 
-You can use the [editor on GitHub](https://github.com/javan-pohl/javan-pohl.github.io/edit/gh-pages/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Well... so I got myself set-up with a Github Pages page but I'm not so sure I like it. Or at least maybe the theme. Or maybe the whole thing. My goal here is to have some fun with web development and this seems overly simplified. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I could perhaps try to upload one of my app's from Hack Reactor on here, but I'd much rather have a database that I do actually have to manage. What fun is a website if there's no database, AMMIRITE?!
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/javan-pohl/javan-pohl.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-## Testing stuff out
-
-This is a test from VSC code on my local repo
+However, I do suppose I could continue to utilize this for the next few sprints at Hack Reactor. I mean, it's not like I'll have time to do anything complicated until that's over (which is in like three weeks, I think?) 
